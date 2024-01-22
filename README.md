@@ -22,9 +22,9 @@ The goal is to create a car that follows the black line to complete the route in
 
       
   ### Setup
-    ![](https://github.com/AntoniaOancea/LineFollower/blob/main/lineFollower1.jpg)
+   ![](https://github.com/AntoniaOancea/LineFollower/blob/main/lineFollower1.jpg)
     
-    ![](https://github.com/AntoniaOancea/LineFollower/blob/main/lineFollower2.jpg)
+   ![](https://github.com/AntoniaOancea/LineFollower/blob/main/lineFollower2.jpg)
   
   ### [Video](https://youtu.be/vsS8tseQjgM)
 
