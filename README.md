@@ -1,6 +1,6 @@
 # Line Follower
 
-This repository is dedicated to the Line Follower project made during the Introduction to Robotics course. I worked with [Ioana Ciltea](https://github.com/CilteaIoana/LineFollower/tree/main)
+This repository is dedicated to the Line Follower project made during the Introduction to Robotics course. I worked with [@CilteaIoana](https://github.com/CilteaIoana/LineFollower) and [@surtexx](https://github.com/surtexx/LineFollower) 
 
 The chassis was made by us using a foam board and we connected the components using screws and zip-ties.
 
